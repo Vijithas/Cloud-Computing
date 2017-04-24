@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Coursework/3rd sem/CComputing/VMware-vSphere-SDK-6.0.0-2561048/SDK/vsphere-ws/java/JAXWS/lib/samples-annotations-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Coursework/3rd sem/CComputing/VMware-vSphere-SDK-6.0.0-2561048/SDK/vsphere-ws/java/JAXWS/lib/samples-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Coursework/3rd sem/CComputing/VMware-vSphere-SDK-6.0.0-2561048/SDK/vsphere-ws/java/JAXWS/lib/sblim-cim-client2-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Coursework/3rd sem/CComputing/VMware-vSphere-SDK-6.0.0-2561048/SDK/vsphere-ws/java/JAXWS/lib/ssoclient.jar"/>
+	<classpathentry kind="lib" path="E:/Coursework/3rd sem/CComputing/VMware-vSphere-SDK-6.0.0-2561048/SDK/vsphere-ws/java/JAXWS/lib/ssosamples.jar"/>
+	<classpathentry kind="lib" path="E:/Coursework/3rd sem/CComputing/VMware-vSphere-SDK-6.0.0-2561048/SDK/vsphere-ws/java/JAXWS/lib/vim25.jar"/>
+	<classpathentry kind="lib" path="E:/Coursework/3rd sem/CComputing/VMware-vSphere-SDK-6.0.0-2561048/SDK/vsphere-ws/java/JAXWS/lib/wssamples.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,54 @@
+System Statistics VM: CloudComputing07
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:02:55) : 200
+Usage of Memory in megaBytes at time (2017-03-01 15:02:55) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:06) : 200
+Usage of Memory in megaBytes at time (2017-03-01 15:03:06) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:16) : 128
+Usage of Memory in megaBytes at time (2017-03-01 15:03:16) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:26) : 128
+Usage of Memory in megaBytes at time (2017-03-01 15:03:26) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:36) : 231
+Usage of Memory in megaBytes at time (2017-03-01 15:03:36) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:46) : 231
+Usage of Memory in megaBytes at time (2017-03-01 15:03:46) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:56) : 180
+Usage of Memory in megaBytes at time (2017-03-01 15:03:56) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:06) : 180
+Usage of Memory in megaBytes at time (2017-03-01 15:04:06) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:16) : 180
+Usage of Memory in megaBytes at time (2017-03-01 15:04:16) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:26) : 180
+Usage of Memory in megaBytes at time (2017-03-01 15:04:26) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:36) : 178
+Usage of Memory in megaBytes at time (2017-03-01 15:04:36) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:47) : 178
+Usage of Memory in megaBytes at time (2017-03-01 15:04:47) : 1001
+
+
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:57) : 133
+Usage of Memory in megaBytes at time (2017-03-01 15:04:57) : 1001
+
+

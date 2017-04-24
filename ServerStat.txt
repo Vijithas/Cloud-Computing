@@ -1,0 +1,93 @@
+System Statistics SERVER: SERVER
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:02:55) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:02:55) : 2005
+Usage of Memory in megaBytes at time (2017-03-01 15:02:55) : 13927
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:03:06) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:06) : 2005
+Usage of Memory in megaBytes at time (2017-03-01 15:03:06) : 13927
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:03:16) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:16) : 1387
+Usage of Memory in megaBytes at time (2017-03-01 15:03:16) : 13962
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:03:26) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:26) : 1387
+Usage of Memory in megaBytes at time (2017-03-01 15:03:26) : 13962
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:03:36) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:36) : 2269
+Usage of Memory in megaBytes at time (2017-03-01 15:03:36) : 13930
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:03:46) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:46) : 2269
+Usage of Memory in megaBytes at time (2017-03-01 15:03:46) : 13930
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:03:56) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:03:56) : 1882
+Usage of Memory in megaBytes at time (2017-03-01 15:03:56) : 13940
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:04:06) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:06) : 1882
+Usage of Memory in megaBytes at time (2017-03-01 15:04:06) : 13940
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:04:16) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:16) : 1927
+Usage of Memory in megaBytes at time (2017-03-01 15:04:16) : 13963
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:04:26) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:26) : 1927
+Usage of Memory in megaBytes at time (2017-03-01 15:04:26) : 13963
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:04:37) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:37) : 1842
+Usage of Memory in megaBytes at time (2017-03-01 15:04:37) : 13932
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:04:47) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:47) : 1842
+Usage of Memory in megaBytes at time (2017-03-01 15:04:47) : 13932
+
+
+
+
+Available Network Bandwidth  with timestamp (2017-03-01 15:04:57) : 0
+CPU usage in megaHertz with timestamp:  (2017-03-01 15:04:57) : 1384
+Usage of Memory in megaBytes at time (2017-03-01 15:04:57) : 13924
+
+
